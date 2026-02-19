@@ -45,6 +45,8 @@ Hardened an Ubuntu virtual machine by implementing secure configurations, reduci
 - Disabled unnecessary services
 - Created and scheduled cron jobs
 
+https://github.com/MKspencer88/System-hardening-unbuntu.git
+
 # Penetration Testing & Reporting
 
 For this project, my fictional company **BBNC Security** conducted a penetration test for MegaCorpOne. This was my first experience stepping into the mindset of a threat actor it was exciting, a little terrifying and incredibly educational. 
