@@ -1,10 +1,10 @@
 # MK Spencer - Cybersecurity portfolio 
 
-If you are reading this Welcome and thank you for taking the time to review my work. I am an entry-level cybersecurity hopeful with a deep passion for system hardening, defensive security, Python automations and hands-on learning. My path into cybersecurity isn't traditional, but is's driven by curiousity, discipline and a genuine love for understanding how systems work and how to protect them.
+If you are reading this welcome and thank you for taking the time to review my work. I am an entry-level cybersecurity hopeful with a deep passion for system hardening, defensive security, Python automations and hands-on learning. My path into cybersecurity isn't traditional, but is's driven by inquisitiveness, discipline and a genuine love for understanding how systems work and how to protect them.
 
 # My Journey Into Cybersecurity
 
-For years cybersecurity fascinated me even before I fully understood what it actually was. My only frame of reference I'd had was from television. I've always been into tech. I love gaming and computers always fascinated me since I was a kid. I was working long, repeitive shifts in waste management, feeling stagnant and craving something that was going to challenge me on a daily basis. I was going through a stressful time when and I realized that I couldn't even distract myself with work. I felt stuck and unfufilled. One day I was chatting with a friend about how I was thinking about learning a new trade. She suggested I look into cybersecurity, my immedaite response was "Oh I'm not smart enough for that." My friend looked at my like I had lobsters coming out of my ears and said, "It's not about how smart you are. It's about drive and determination."
+For years cybersecurity fascinated me even before I fully understood what it actually was. My only frame of reference I'd had was from television. I've always been into tech. I love gaming and computers always fascinated me since I was a kid. I was working long, repetitive shifts in waste management, feeling stagnant and craving something that was going to challenge me on a daily basis. I was going through a stressful time and I realized that I couldn't even distract myself with work. I felt stuck and unfufilled. One day I was chatting with a friend about how I was thinking about learning a new trade. She suggested I look into cybersecurity, my immediate response was "Oh I'm not smart enough for that." My friend looked at my like I had lobsters coming out of my ears and said, "It's not about how smart you are. It's about drive and determination."
 
 Turns out. She was right.
 
@@ -12,12 +12,12 @@ I cashed out my 401K and found a six month cybersecurity bootcamp through the Un
 
 My final project involved writing and automating Python scripts, and while classmates were complaining about how Python being boring I was thinking; "Are you kidding? Python is incredible. You can do so many things with it!" The things you can do with just some letters, numbers and symbols are endless. 
 
-My curiosity hasn't stopped. I earned my CompTIA Security+ ceritification and built multiple hands-on projects, and discovered that I have only scrated the surface. Which is what excites me the most. 
+My thirst for knowledge hasn't stopped. I earned my **CompTIA Security+** ceritification and built multiple hands-on projects, and discovered that I have only scratched the surface. Which is what excites me the most. 
 
 # What I Bring
 
 I may not have industry work experience yet, but my background shows: 
-- Relentless curiosity 
+- Relentless curiosity
 - Strong discipline and follow-through
 - A habit of asking "why" until I fully understand something
 - A proven ability to learn complex concepts quickly
@@ -27,14 +27,14 @@ This portfolio is a relfection of that mindset -- a collection of projects I've 
 
 # Projects
 
-Below are the major projects I have completed so far, each one includes documentation, methodology and artifacts
+Below are the major projects I have completed so far, each one includes documentation, methodology and artifacts.
 
 # System Hardening (Ubuntu) 
 
 Hardened an Ubuntu virtual machine by implementing secure configurations, reducing the attack surface, and validating improvements through scanning and log review. This project demonstrates practical system administration, secure configuration and defensive security skills aligned with real-world SOC and sysadmin workflows. 
 
 **Key Tasks**
-- Backed up OS and validate3d restore points
+- Backed up OS and validated restore points
 - Audited users and groups
 - Updated and enforced passoword policies
 - Updated and enforced sudo permissions
@@ -61,13 +61,11 @@ Acted as part of a SOC team for a simulated company VSI. My team analyzed Window
 - Creating a table of HTTP response code counts
 - Using Splunk to compile and visulaize data
 
-Most classmates found this project boring -- I found it fascinating. I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
+My favorite thing I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
 
 # Python Security Automation (bootCon 2025)
 
 Created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
-
-# Skills & Tools
 
 # **Technical Skills**
 - System Hardening (Linux/Ubuntu, Windows)
@@ -93,6 +91,8 @@ Created a Python script that detects and logs and potential brute-force attempts
 - **Email:** mk.spencer88.proton.me
 - **LinkedIn:** https://www.linkedin.com/in/mk-spencer-12468a2a8/
 - **Location:** St. Paul, MN
+
+Thank you again for taking the time to explore my work. I’m excited to continue learning, building, and contributing to a team where curiosity and determination matter.
 
   
 
