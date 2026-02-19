@@ -62,6 +62,7 @@ Acted as part of a SOC team for a simulated company VSI. My team analyzed Window
 - Using Splunk to compile and visulaize data
 
 My favorite thing I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
+
 [Full Report here](https://github.com/MKspencer88/Penetration-test-report)
 # Python Security Automation (bootCon 2025)
 
