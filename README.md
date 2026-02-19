@@ -1,6 +1,6 @@
 # MK Spencer - Cybersecurity portfolio 
 
-If you are reading this welcome and thank you for taking the time to review my work. I am an entry-level cybersecurity hopeful with a deep passion for system hardening, defensive security, Python automations and hands-on learning. My path into cybersecurity isn't traditional, but is's driven by inquisitiveness, discipline and a genuine love for understanding how systems work and how to protect them.
+If you are reading this welcome! And thank you for taking the time to review my work. I am an entry-level cybersecurity hopeful with a deep passion for system hardening, defensive security, Python automations and hands-on learning. My path into cybersecurity isn't traditional, but is's driven by ambition, discipline and a genuine love for understanding how systems work and how to protect them.
 
 # My Journey Into Cybersecurity
 
@@ -10,7 +10,7 @@ Turns out. She was right.
 
 I cashed out my 401K and found a six month cybersecurity bootcamp through the University of Denver, and within the first week I was hooked. Real cybersecurity - not the hollywood version -- completely captivated me. Even the topics others found boring I found myself craving more. I spent my free time researching ways to enhance my skills and maximize my time in school. I built a home lab and dove deeper into Linux, Window and networking. 
 
-My final project involved writing and automating Python scripts, and while classmates were complaining about how Python being boring I was thinking; "Are you kidding? Python is incredible. You can do so many things with it!" The things you can do with just some letters, numbers and symbols are endless. 
+My final project involved writing and automating Python scripts, and while classmates were complaining about how Python being boring I was thinking; "Are you kidding? Python is incredible. You can do so many things with it!"
 
 My thirst for knowledge hasn't stopped. I earned my **CompTIA Security+** ceritification and built multiple hands-on projects, and discovered that I have only scratched the surface. Which is what excites me the most. 
 
