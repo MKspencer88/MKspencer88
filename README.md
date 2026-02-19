@@ -4,7 +4,7 @@ If you are reading this welcome! And thank you for taking the time to review my 
 
 # My Journey Into Cybersecurity
 
-For years cybersecurity fascinated me even before I fully understood what it actually was. My only frame of reference I'd had was from television. I've always been into tech. I love gaming and computers always fascinated me since I was a kid. I was working long, repetitive shifts in waste management, feeling stagnant and craving something that was going to challenge me on a daily basis. I was going through a stressful time and I realized that I couldn't even distract myself with work. One day I was chatting with a friend about how I was thinking about learning a new trade. She suggested I look into cybersecurity, my immediate response was "Oh I'm not smart enough for that." My friend looked at my like I had lobsters coming out of my ears and said, "It's not about how smart you are. It's about drive and determination."
+For years cybersecurity fascinated me even before I fully understood what it actually was. My only frame of reference I'd had was from television. I've always been into tech. I love gaming and computers always fascinated me since I was a kid. I was working long, repetitive shifts in waste management, feeling stagnant and craving something that was going to challenge me on a daily basis. One day I was chatting with a friend about how I was thinking about learning a new trade. She suggested I look into cybersecurity, my immediate response was "Oh I'm not smart enough for that." My friend looked at my like I had lobsters coming out of my ears and said, "It's not about how smart you are. It's about drive and determination."
 
 Turns out. She was right.
 
