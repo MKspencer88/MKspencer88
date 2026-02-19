@@ -70,7 +70,7 @@ My favorite thing I learned how logs tell a story, how to distinguish normal fro
 
 # Python Security Automation (bootCon 2025)
 
-Created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
+I created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
 
 [Check out the full project here!](https://github.com/MKspencer88/bootCon2025-Python-Security-Automation/tree/main)
 
