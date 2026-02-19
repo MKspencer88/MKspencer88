@@ -45,14 +45,14 @@ Hardened an Ubuntu virtual machine by implementing secure configurations, reduci
 - Disabled unnecessary services
 - Created and scheduled cron jobs
 
-[Check out the full project here](https://github.com/MKspencer88/System-hardening-unbuntu.git)
+[Check out the full project here!](https://github.com/MKspencer88/System-hardening-unbuntu.git)
 
 
 # Penetration Testing & Reporting
 
 For this project, my fictional company **BBNC Security** conducted a penetration test for **Rekall**. This was my first experience stepping into the mindset of a threat actor it was exciting, a little terrifying and incredibly educational. 
 
-[Check out the full project here](https://github.com/MKspencer88/Penetration-test-report)
+[Check out the full project here!](https://github.com/MKspencer88/Penetration-test-report)
 
 # Defensive Security / SOC Analysis
 
@@ -66,11 +66,13 @@ Acted as part of a SOC team for a simulated company VSI. My team analyzed Window
 
 My favorite thing I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
 
-[Check out project here](https://github.com/MKspencer88/Defensive-Security-Project/tree/main)
+[Check out the full project here!](https://github.com/MKspencer88/Defensive-Security-Project/tree/main)
 
 # Python Security Automation (bootCon 2025)
 
 Created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
+
+[Check out the full project here!](https://github.com/MKspencer88/bootCon2025-Python-Security-Automation/tree/main)
 
 # **Technical Skills**
 - System Hardening (Linux/Ubuntu, Windows)
