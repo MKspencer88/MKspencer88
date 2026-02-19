@@ -45,7 +45,7 @@ Hardened an Ubuntu virtual machine by implementing secure configurations, reduci
 - Disabled unnecessary services
 - Created and scheduled cron jobs
 
-https://github.com/MKspencer88/System-hardening-unbuntu.git
+[Check out full technical brief](https://github.com/MKspencer88/System-hardening-unbuntu.git)
 
 # Penetration Testing & Reporting
 
@@ -62,7 +62,7 @@ Acted as part of a SOC team for a simulated company VSI. My team analyzed Window
 - Using Splunk to compile and visulaize data
 
 My favorite thing I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
-[Full Report here](
+[Full Report here](https://github.com/MKspencer88/Penetration-test-report)
 # Python Security Automation (bootCon 2025)
 
 Created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
