@@ -45,14 +45,14 @@ Hardened an Ubuntu virtual machine by implementing secure configurations, reduci
 - Disabled unnecessary services
 - Created and scheduled cron jobs
 
-[Check out full technical brief](https://github.com/MKspencer88/System-hardening-unbuntu.git)
+[Check out the full project here](https://github.com/MKspencer88/System-hardening-unbuntu.git)
 
 
 # Penetration Testing & Reporting
 
 For this project, my fictional company **BBNC Security** conducted a penetration test for **Rekall**. This was my first experience stepping into the mindset of a threat actor it was exciting, a little terrifying and incredibly educational. 
 
-[Full Report here](https://github.com/MKspencer88/Penetration-test-report)
+[Check out the full project here](https://github.com/MKspencer88/Penetration-test-report)
 
 # Defensive Security / SOC Analysis
 
