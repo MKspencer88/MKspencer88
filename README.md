@@ -66,6 +66,8 @@ Acted as part of a SOC team for a simulated company VSI. My team analyzed Window
 
 My favorite thing I learned how logs tell a story, how to distinguish normal from malicious behavior, and how to use tools to gain deeper insight.
 
+[Check out project here](https://github.com/MKspencer88/Defensive-Security-Project/tree/main)
+
 # Python Security Automation (bootCon 2025)
 
 Created a Python script that detects and logs and potential brute-force attempts, generating alerts automatically. This project is where I truly fell in love with Python -- the structure, the logic, the endless possibilities.
