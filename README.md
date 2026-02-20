@@ -79,7 +79,7 @@ I created a Python script that detects and logs and potential brute-force attemp
 - Log Analysis (Windows Event Logs, Apache Logs)
 - Python scripting & automation
 - Basic penetration testing methodology
-- Network scanning & enuermation
+- Network scanning & enumeration
 - Secure configuration & auditing
 - SIEM fundementals
 
