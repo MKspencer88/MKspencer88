@@ -82,7 +82,7 @@ Python Games is a beginner friendly project where ChatGPT taught me Python basic
 - Loops
 - Conditionals
 - f-strings
-- randomness
+- Randomness
 - Modulus Operator.
 
 The project highlights my ability to learn quickly, break down problems, and documents my process clearly.
