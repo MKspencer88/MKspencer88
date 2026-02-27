@@ -74,6 +74,21 @@ I created a Python script that detects and logs and potential brute-force attemp
 
 [Check out the full project here!](https://github.com/MKspencer88/bootCon2025-Python-Security-Automation/tree/main)
 
+# Python Games: The Day I Asked ChatGPT to Teach Me Python
+
+Python Games is a beginner friendly project where I (along with the help of ChatGPT) taught myself Python basics in a single day by building small scripts, troubleshooting errors and gradually adding new concepts. Through exercises like an age calculator, FizzBuzz and a lucky-number game, I learned:
+- Variables
+- Data Types
+- Loops
+- Conditionals
+- f-strings
+- randomness
+- Modulus Operator.
+
+The project highlights my ability to learn quickly, break down problems, and documents my process clearly.
+
+[Check out full project here!](https://github.com/MKspencer88/Python-games-/tree/main)
+
 # **Technical Skills**
 - System Hardening (Linux/Ubuntu, Windows)
 - Log Analysis (Windows Event Logs, Apache Logs)
