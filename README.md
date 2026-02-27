@@ -76,7 +76,7 @@ I created a Python script that detects and logs and potential brute-force attemp
 
 # Python Games: The Day I Asked ChatGPT to Teach Me Python
 
-Python Games is a beginner friendly project where I (along with the help of ChatGPT) taught myself Python basics in a single day by building small scripts, troubleshooting errors and gradually adding new concepts. Through exercises like an age calculator, FizzBuzz and a lucky-number game, I learned:
+Python Games is a beginner friendly project where ChatGPT and I taught myself Python basics in a single day by building small scripts, troubleshooting errors and gradually adding new concepts. Through exercises like an age calculator, FizzBuzz and a lucky-number game, I learned:
 - Variables
 - Data Types
 - Loops
