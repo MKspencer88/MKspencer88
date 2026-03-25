@@ -89,6 +89,12 @@ The project highlights my ability to learn quickly, break down problems, and doc
 
 [Check out full project here!](https://github.com/MKspencer88/Python-games-/tree/main)
 
+# Hack The Box
+
+I am working my way through the Hack The Box Machines and I this the first one reported.
+
+[Hack The Box Archetype](https://github.com/MKspencer88/Hack-The-Box-Archetype)
+
 # **Technical Skills**
 - System Hardening (Linux/Ubuntu, Windows)
 - Log Analysis (Windows Event Logs, Apache Logs)
