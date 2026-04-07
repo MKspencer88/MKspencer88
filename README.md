@@ -89,6 +89,24 @@ The project highlights my ability to learn quickly, break down problems, and doc
 
 [Check out full project here!](https://github.com/MKspencer88/Python-games-/tree/main)
 
+# Bandit: OverTheWire Wargame
+
+OverTheWire Bandit is beginner friendly wargame designed to teach the fundementals of Linux, networking, and cybersecurity through hands on challenges. Each level presents a new problem that must be solved using command line tools, scripting, and security techniques. Over the course of this wargame I completed all 33 levels, progressing from basic Linux file navigation all the way through to advanced topics including privilege escalation, git security, and shell escapes. Each level built on the last, requiring me to combine skills and think creatively to find solutions. 
+
+Topic and skills covered include
+- Linux command line fundamentals
+- Fle permissions and setuid binaries
+- Bash scripting and automation
+- Brute forcing and network services using netcat
+- Cron jobs and scheduled task exploitation
+- Privilege escalation techniques
+- Git security, commit history, branches, tags and hooks
+- Restricted shell escapes using vim and shel variables
+- SSH key authentication
+- CTF methodology and security mindset
+
+This wargame gave me a strong practical foundation in both Linux administration and offensive security techniques. [Here is the full project!](https://github.com/MKspencer88/Bandit)
+
 # Hack The Box
 
 I am working my way through the Hack The Box Machines and I this the first one reported.
